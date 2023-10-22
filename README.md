@@ -9,6 +9,9 @@ The GlowGAN library is developed based on [StyleGAN-XL](https://github.com/auton
 
 If you encounter some setting problems, you may find solutions from [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl).
 
+### Pretrained Models
+You can download the pretrianed models from [Models](https://drive.google.com/drive/folders/1Wf4PTy3fFUOzf9RRFr4GowHJF-EHLMkt?usp=sharing).
+
 ### Training
 We follow the progressive training be strategy, strat from the low resolution and increase the resolution step by step.
 
