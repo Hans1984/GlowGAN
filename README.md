@@ -37,7 +37,18 @@ python gen_images.py --outdir=<OUT_DIR> --trunc=0.7 --seeds=449 --batch-sz 1 --n
 ```
 python run_inversion.py --outdir=<OUT_DIR> --target data/001.png --inv-steps 1000 --run-pti --pti-steps 350 --network=<PRETRAINED_MODEL>
 ```
-
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@inproceedings{wang2023glowgan,
+  title={GlowGAN: Unsupervised Learning of HDR Images from LDR Images in the Wild},
+  author={Wang, Chao and Serrano, Ana and Pan, Xingang and Chen, Bin and Myszkowski, Karol and Seidel, Hans-Peter and Theobalt, Christian and Leimk{\"u}hler, Thomas},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={10509--10519},
+  year={2023}
+}</code></pre>
+  </div>
+</section>
 
 
 
