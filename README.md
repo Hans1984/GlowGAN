@@ -7,7 +7,7 @@ The GlowGAN library is developed based on [StyleGAN-XL](https://github.com/auton
   - ```conda env create -f environment.yml```
   - ```conda activate glow_gan```
 
-If you encounter some setting problems, there could be solution from [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl).
+If you encounter some setting problems, you may find solutions from [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl).
 
 ### Training
 We follow the progressive training be strategy, strat from the low resolution and increase the resolution step by step.
