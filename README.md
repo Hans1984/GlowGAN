@@ -50,5 +50,8 @@ python run_inversion.py --outdir=<OUT_DIR> --target data/001.png --inv-steps 100
   </div>
 </section>
 
+### Acknowledge
+This source code is derived from the awesome GAN model [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl). We really appreciate the contributions of the authors to that repository.
+
 
 
