@@ -3,7 +3,7 @@
 
 ### Installation
 The GlowGAN library is developed based on [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl).
-- Use the following commands with Anaconda to create and activate your PG Python environment:
+- Use the following commands with Anaconda to create and activate your environment:
   - ```conda env create -f environment.yml```
   - ```conda activate glow_gan```
 
